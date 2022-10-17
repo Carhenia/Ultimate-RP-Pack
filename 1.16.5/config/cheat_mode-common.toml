@@ -1,8 +1,0 @@
-
-#Cheat Mode Mod Configurations | NO RESTART REQUIRED
-[cheat_mode]
-	#Instantly open the creative inventory (true) or open the survival inventory with a button to open the creative inventory (false)? (default: true)
-	instant_creative_inventory = true
-	#Walk and fly twice as fast? (default: false)
-	double_speed = false
-
