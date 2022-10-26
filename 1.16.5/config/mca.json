@@ -47,7 +47,7 @@
   "maleVillagerWidthFactor": 1.0,
   "femaleVillagerWidthFactor": 0.95,
   "showNameTags": true,
-  "useMCAVoices": true,
+  "useMCAVoices": false,
   "useVanillaVoices": false,
   "interactionChanceFatigue": 1.0,
   "interactionFatigueCooldown": 4800,

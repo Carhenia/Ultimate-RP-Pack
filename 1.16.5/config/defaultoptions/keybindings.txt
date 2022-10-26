@@ -32,115 +32,30 @@ key_key.hotbar.6:key.keyboard.6:NONE
 key_key.hotbar.7:key.keyboard.7:NONE
 key_key.hotbar.8:key.keyboard.8:NONE
 key_key.hotbar.9:key.keyboard.9:NONE
-key_Open Friends Gui:key.keyboard.h:NONE
-key_Open Cosmetic Studio:key.keyboard.b:NONE
-key_keybind.name.SCREENSHOT_MANAGER:key.keyboard.i:NONE
-key_Cosmetic Visibility Toggle:key.keyboard.o:NONE
-key_Add Friend:key.keyboard.unknown:NONE
-key_Chat Peek:key.keyboard.z:NONE
-key_Invite Friends:key.keyboard.unknown:NONE
-key_Zoom:key.keyboard.c:NONE
-key_treechop.key.toggle_chopping:key.keyboard.unknown:NONE
-key_treechop.key.toggle_felling:key.keyboard.unknown:NONE
-key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown:NONE
-key_treechop.key.open_settings_overlay:key.keyboard.n:NONE
-key_key.secondarySprint:key.keyboard.w:NONE
-key_key.dismount:key.keyboard.left.shift:NONE
-key_key.narrator:key.keyboard.b:CONTROL
-key_key.pause:key.keyboard.escape:NONE
-key_key.gui:key.keyboard.f1:NONE
-key_key.debugInfo:key.keyboard.f3:NONE
 key_key.keywizard.openKeyWizard:key.keyboard.f7:NONE
 key_key.itemzoom.toggle:key.keyboard.z:SHIFT
 key_key.itemzoom.hold:key.keyboard.unknown:NONE
 key_key.itemzoom.zoom.in:key.keyboard.unknown:NONE
 key_key.itemzoom.zoom.out:key.keyboard.unknown:NONE
-key_Scene1 start/pause:key.keyboard.keypad.1:NONE
-key_Scene2 start/pause:key.keyboard.keypad.2:NONE
-key_Scene3 start/pause:key.keyboard.keypad.3:NONE
-key_Scene reset:key.keyboard.keypad.0:NONE
-key_Quest Log:key.keyboard.l:NONE
+key_key.waila.config:key.keyboard.keypad.0:NONE
+key_key.waila.show_overlay:key.keyboard.keypad.1:NONE
+key_key.waila.toggle_liquid:key.keyboard.keypad.2:NONE
+key_iris.keybind.reload:key.keyboard.r:NONE
+key_iris.keybind.toggleShaders:key.keyboard.k:NONE
+key_iris.keybind.shaderPackSelection:key.keyboard.o:NONE
 key_placebo.toggleWings:key.keyboard.keypad.8:NONE
 key_placebo.toggleTrails:key.keyboard.keypad.9:NONE
 key_fpsreducer.key.openGui:key.keyboard.end:NONE
 key_fpsreducer.key.forceIdle:key.keyboard.pause:NONE
-key_key.zoomin:key.keyboard.v:NONE
-key_key.centerzoom:key.keyboard.b:NONE
-key_key.zoomout:key.keyboard.n:NONE
-key_key.rollleft:key.keyboard.g:NONE
-key_key.rollcenter:key.keyboard.h:NONE
-key_key.rollright:key.keyboard.j:NONE
-key_key.point:key.keyboard.p:NONE
-key_key.startStop:key.keyboard.u:NONE
-key_key.clearPoint:key.keyboard.delete:NONE
-key_key.curios.open.desc:key.keyboard.g:NONE
-key_iris.keybind.reload:key.keyboard.r:NONE
-key_iris.keybind.toggleShaders:key.keyboard.k:NONE
-key_iris.keybind.shaderPackSelection:key.keyboard.o:NONE
-key_oreexcavation.key.excavate:key.keyboard.grave.accent:NONE
-key_oreexcavation.key.shape_toggle:key.keyboard.v:NONE
-key_oreexcavation.key.shape_edit:key.keyboard.b:NONE
-key_Options Gui:key.keyboard.i:NONE
-key_key.spartanweaponry.access_quiver:key.keyboard.i:NONE
-key_key.pickup.item:key.keyboard.unknown:NONE
-key_key.observable.profile:key.keyboard.r:NONE
-key_key.ship_sail:key.keyboard.r:NONE
-key_key.ship_inventory:key.keyboard.i:NONE
-key_key.lower_ship_sail:key.keyboard.j:NONE
-key_key.higher_ship_sail:key.keyboard.k:NONE
-key_key.togglecleanview:key.keyboard.unknown:NONE
-key_key.effortlessbuilding.hud.desc:key.keyboard.keypad.add:NONE
-key_key.effortlessbuilding.replace.desc:key.keyboard.keypad.subtract:NONE
-key_key.effortlessbuilding.mode.desc:key.keyboard.left.alt:NONE
-key_key.effortlessbuilding.undo.desc:key.keyboard.z:CONTROL
-key_key.effortlessbuilding.redo.desc:key.keyboard.y:CONTROL
-key_key.effortlessbuilding.altplacement.desc:key.keyboard.left.control:NONE
-key_key.gocurrency.full:key.keyboard.left.shift:NONE
-key_key.gocurrency.half:key.keyboard.left.alt:NONE
-key_key.vehicle.horn:key.keyboard.h:NONE
-key_key.vehicle.cycle_seats:key.keyboard.c:NONE
 key_key.toastcontrol.clear:key.keyboard.j:NONE
-key_keybind.projectbrazier.zoom.increase:key.keyboard.up:NONE
-key_keybind.projectbrazier.zoom.decrease:key.keyboard.down:NONE
-key_keybind.projectbrazier.tertiary_action:key.keyboard.c:NONE
-key_keybind.projectbrazier.selective_item.prev:key.keyboard.up:NONE
-key_keybind.projectbrazier.selective_item.next:key.keyboard.down:NONE
+key_Open sound muffler screen:key.keyboard.unknown:NONE
+key_key.open_menu:key.keyboard.r:NONE
 key_sndctrl.text.quickvolumemenu.open:key.keyboard.v:CONTROL
 key_sndctrl.text.soundconfig.open:key.keyboard.i:CONTROL
-key_key.swem.horse.increment:key.keyboard.h:NONE
-key_key.swem.horse.decrement:key.keyboard.g:NONE
-key_key.swem.horse.toggle_saddlebag_and_bedroll:key.keyboard.k:NONE
-key_key.swem.horse.toggle_flight:key.keyboard.j:NONE
-key_key.swem.horse.toggle_wings:key.keyboard.period:NONE
-key_key.swem.horse.dive_flight:key.keyboard.x:NONE
-key_key.swem.horse.check_speed:key.keyboard.n:NONE
-key_key.swem.horse.camera_lock:key.keyboard.left.alt:NONE
-key_key.swem.horse.bite:key.keyboard.unknown:NONE
-key_key.swem.horse.kick:key.keyboard.unknown:NONE
-key_key.swem.horse.stomp:key.keyboard.unknown:NONE
-key_key.waila.config:key.keyboard.keypad.0:NONE
-key_key.waila.show_overlay:key.keyboard.keypad.1:NONE
-key_key.waila.toggle_liquid:key.keyboard.keypad.2:NONE
-key_toggle:key.keyboard.f6:NONE
-key_doubleslabs.key.toggleVerticalSlabPlacement:key.keyboard.caps.lock:NONE
-key_key.mtr.lift_menu:key.keyboard.z:NONE
-key_key.open_menu:key.keyboard.r:NONE
-key_Open sound muffler screen:key.keyboard.unknown:NONE
-key_mod.chiselsandbits.keys.key.modded-tool.open:key.keyboard.r:NONE
-key_mod.chiselsandbits.keys.key.modded-tool.cycle.left:key.keyboard.unknown:NONE
-key_mod.chiselsandbits.keys.key.modded-tool.cycle.right:key.keyboard.unknown:NONE
-key_mod.chiselsandbits.keys.key.measuring-tape.reset:key.mouse.right:SHIFT
-key_mod.chiselsandbits.keys.key.undo:key.keyboard.z:CONTROL
-key_mod.chiselsandbits.keys.key.redo:key.keyboard.y:CONTROL
-key_create.keyinfo.toolmenu:key.keyboard.left.alt:NONE
-key_create.keyinfo.toolbelt:key.keyboard.left.alt:NONE
-key_key.mtr.train_accelerate:key.keyboard.up:NONE
-key_key.mtr.train_brake:key.keyboard.down:NONE
-key_key.mtr.train_toggle_doors:key.keyboard.left:NONE
+key_key.curios.open.desc:key.keyboard.g:NONE
 key_key.trashslot.toggle:key.keyboard.t:NONE
 key_key.trashslot.delete:key.keyboard.delete:NONE
 key_key.trashslot.deleteAll:key.keyboard.delete:SHIFT
-key_key.zoom:key.keyboard.c:NONE
 key_key.configured.open_mod_list:key.keyboard.unknown:NONE
 key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
 key_key.jei.focusSearch:key.keyboard.f:CONTROL
