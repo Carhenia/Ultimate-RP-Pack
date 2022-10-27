@@ -1,0 +1,5 @@
+
+[logbegone]
+	phrases = ["Unable to resolve texture due to reference chain"]
+	regex = [""]
+

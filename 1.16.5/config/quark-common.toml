@@ -25,13 +25,13 @@
 	"Enable Network Profiling" = false
 
 [categories]
-	Automation = true
+	Automation = false
 	Building = true
 	Management = true
-	Tools = true
+	Tools = false
 	Tweaks = true
-	World = true
-	Mobs = true
+	World = false
+	Mobs = false
 	Client = true
 	Oddities = true
 	Experimental = true
@@ -228,13 +228,13 @@
 		"Enable Iron Ladder" = true
 
 [management]
-	"Chests In Boats" = true
+	"Chests In Boats" = false
 	"Easy Transfering" = true
 	"Hotbar Changer" = true
 	"Inventory Sorting" = true
-	"Item Sharing" = true
-	"Right Click Armor" = true
-	"Shulker Box Right Click" = true
+	"Item Sharing" = false
+	"Right Click Armor" = false
+	"Shulker Box Right Click" = false
 
 	[management.easy_transfering]
 		"Enable Shift Lock" = true
@@ -362,12 +362,12 @@
 	"Better Elytra Rocket" = true
 	"Campfires Boost Elytra" = true
 	"Compasses Work Everywhere" = true
-	"Dirt To Path" = true
+	"Dirt To Path" = false
 	"Double Door Opening" = true
 	"Dragon Scales" = true
 	Emotes = true
 	"Enhanced Ladders" = true
-	"Glass Shard" = true
+	"Glass Shard" = false
 	"Hoe Harvesting" = true
 	"Improved Sleeping" = true
 	"Infinity Bucket" = true
@@ -1889,7 +1889,7 @@
 	"Improved Mount Hud" = true
 	"Improved Tooltips" = true
 	"Usage Ticker" = true
-	"Variant Animal Textures" = true
+	"Variant Animal Textures" = false
 
 	[client.greener_grass]
 		"Affect Leaves" = true

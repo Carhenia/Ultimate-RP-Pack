@@ -6,7 +6,7 @@
   "forceCrashScreen": false,
   "crashLimit": 20,
   "crashlogUpload": {
-    "destination": "BYTEBIN",
+    "destination": "hasteUrl",
     "hasteUrl": "https://hastebin.com/",
     "bytebinUrl": "https://bytebin.lucko.me/",
     "gist": {

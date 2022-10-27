@@ -1,6 +1,6 @@
 {
   "quality": {
-    "cloud_quality": "DEFAULT",
+    "cloud_quality": "FANCY",
     "weather_quality": "DEFAULT",
     "leaves_quality": "DEFAULT",
     "enable_vignette": true,
