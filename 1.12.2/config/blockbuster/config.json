@@ -25,7 +25,8 @@
         "record_attack_on_swipe": true,
         "record_commands": true,
         "record_chat_prefix": "",
-        "record_pause_preview": true
+        "record_pause_preview": true,
+        "record_render_debug_paths": true
     },
     "scenes": {
         "save_update": true

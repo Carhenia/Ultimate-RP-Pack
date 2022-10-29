@@ -9,6 +9,7 @@
         "enable_grid_rendering": true,
         "user_interface_scale": 2,
         "tooltip_style": 1,
+        "render_translation_text_colours": false,
         "favorite_colors": []
     },
     "tutorials": {
