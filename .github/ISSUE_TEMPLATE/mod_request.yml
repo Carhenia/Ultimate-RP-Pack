@@ -1,8 +1,6 @@
 name: Mod Request
 description: Have a mod you'd like to see in one of our modpacks? Send it here!
 labels: [ "enhancement" ]
-assignees: 
-    - Carhenia
 body:
     -   type: textarea
         attributes:
