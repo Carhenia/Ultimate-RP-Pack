@@ -21,8 +21,8 @@ body:
             label: MC Version
             description: Select one or more MC versions
             options:
-                - label: 1.12
-                - label: 1.16
+                - label: "1.12"
+                - label: "1.16"
         validations:
             required: true
     -   type: textarea
