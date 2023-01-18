@@ -1,0 +1,42 @@
+name: Mod Request
+description: Have a mod you'd like to see in one of our modpacks? Send it here!
+labels: [ "enhancement" ]
+assignees: 
+    - Carhenia
+body:
+    -   type: textarea
+        attributes:
+            label: Name of the mod(s)
+            description: Please ensure that the mod has officially been released for the specified MC version
+        validations:
+            required: true
+    -   type: textarea
+        attributes:
+            label: URL
+            description: Curseforge, Modrinth or Official Sites only please.
+        validations:
+            required: true
+    -   type: checkboxes
+        attributes:
+            label: MC Version
+            description: Select one or more MC version
+            options:
+                - "1.12"
+                - "1.16"
+        validations:
+            required: true
+    -   type: textarea
+        attributes:
+            label: Mod Description
+            description: What does this mod do?
+        validations:
+            required: false
+    -   type: textarea
+        attributes:
+            label: Reasoning
+            description: Why should this mod be added to the modpack?
+        validations:
+            required: false
+    -   type: markdown
+        attributes:
+            value: "Thank you for taking the time to make this suggestion. Expect to receive a response soon"
