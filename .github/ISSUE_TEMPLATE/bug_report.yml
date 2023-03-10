@@ -45,6 +45,7 @@ body:
             options:
                 - "1.12"
                 - "1.16"
+                - "1.19"
         validations:
             required: true
     -   type: input
