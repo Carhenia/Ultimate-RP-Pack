@@ -1,0 +1,110 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 506
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = df938912-7a90-4dc6-bb4d-a1c4a1abd7881678423546529
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 108
+  action = deep_customization_element:title_screen_branding
+  actionid = ddbe79ef-9bd2-4425-a365-a430a82b13d51678423546535
+  y = 647
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 1051
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 23ddbb81-d890-475a-b051-595754a263251678423546535
+  y = 669
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 743
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 196d1d07-a89b-4d12-9a62-b522fb688ac41678423546535
+  y = 272
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 503
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 2e434ea8-8f86-41da-9c43-5e837049c67a1678423546535
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = false
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = b544057b-030f-4497-ba2f-000526ccf7891678423546535
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  label = Issues & Requests
+  loopbackgroundanimations = true
+  hoverlabel = Github
+  x = -52
+  width = 104
+  actionid = 66233cce-3c40-4f50-814f-7fdfb7783e381678423964362
+  action = addbutton
+  y = -10
+  value = https://github.com/Carhenia/Ultimate-RP-Pack/issues
+  height = 20
+}
+
+customization {
+  orientation = top-right
+  x = -100
+  width = 100
+  action = addwebtexture
+  actionid = c9d7e490-69dd-4a47-9be4-e2b89ca55ac91678424370867
+  y = 0
+  url = https://wiki.nebulanetwork.net/nebula_network1-01.png
+  height = 100
+}
+

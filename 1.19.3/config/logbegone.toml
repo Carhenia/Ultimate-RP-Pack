@@ -1,5 +1,5 @@
 
 [logbegone]
-	phrases = ["the_aether"]
+	phrases = ["Failed to init Framed Blocks support!"]
 	regex = [""]
 
