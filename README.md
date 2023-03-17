@@ -1,17 +1,42 @@
-# Repository for the Ultimate RP Modpack
-Version 1 for 1.10.2 [succeeded by 1.12.2, no longer available] <br />
-Version 2 for 1.12.2  <br />
-Version 3 for 1.16.5  <br />
-<br /> Changes done to any configuration file will be listed here, mods, resource packs, and saves will never be shared. <br />
-<br />
-Maintained by Carhenia for [Nebula Network](https://nebulanetwork.net) <br />
-# Downloads
-You can find the Ultimate RP Pack modpack on CurseForge. We highly recommend you use a third party launcher such as GDLauncher instead of Overwolf. <br />
-You can find a full list of the mods on our [wiki](https://wiki.nebulanetwork.net/en/Modpacks/UltimateRP). 
-# Official Links
-CurseForge: [Ultimate RP Pack](https://www.curseforge.com/minecraft/modpacks/ultimate-rp-pack) <br />
-Discord: [Nebula Network](https://discord.gg/9ZxeWesrzz) <br />
-Website: [nebulanetwork.net](https://nebulanetwork.net/) <br />
-Wiki: [wiki.nebulanetwork.net](https://wiki.nebulanetwork.net/) <br />
+<p align="center"><img src="https://wiki.nebulanetwork.net/modpack-resources/ultimaterppack.png" alt="Logo" width=""></p>  
+
+<h1 align="center"> Ultimate RP Modpack <br> 
+
+<a href="https://www.curseforge.com/minecraft/modpacks/ultimate-rp-pack"><img src="https://cf.way2muchnoise.eu/title/363664.svg" alt="Modpack"></a>
+ ![](https://cf.way2muchnoise.eu/full_363664_downloads.svg) ![](https://cf.way2muchnoise.eu/versions/363664.svg)  
+ <a href="https://nebulanetwork.net/"><img src="https://img.shields.io/badge/Website-nebulanetwork.net-1DA1F2?style=flat&Color=important" alt="Website"></a>
+<a href="https://www.curseforge.com/members/carhenia/projects/"><img src="https://img.shields.io/badge/My-Modpacks-important?style=flat&logo=curseforge&logoColor=important" alt="Modpacks"></a>
+<a href="https://discord.gg/9ZxeWesrzz"><img src="https://img.shields.io/discord/331067481424920585?color=B524D7&label=Discord&logo=Discord&style=flat" alt="Discord"></a>
+![](https://img.shields.io/github/issues/Carhenia/Ultimate-RP-Pack) ![](https://img.shields.io/github/followers/carhenia?style=social)
+</h1>
+
+An original pack by Carhenia, you may know me from my Youtube series, Nebula High. This modpack is a collection of some of my favourite mods that I've used on my roleplay series previously, including building, world gen, animation, player model and camera mods. This modpack is intended for recording youtube roleplay series, some of the tools included are advanced and will require some research prior to using them. Please consider visiting the full mods list, where I have added information about what each mod is intended to do.
+
+__**Please Note:**__ This is a VERY resource heavy modpack, expect long loading times if you don't have a great PC, please consider removing mods you are not using to reduce resource load. I used to record on a server so it would take on most of the load.  
+
+This repository is a collection of file modifications specifically created for the custom modpack. These modifications include changes to various configuration files such as .toml, .cfg, .txt, .json, and others. These files have been modified to ensure that the modpack functions correctly and provides the desired gameplay experience.
+
+This modpack is maintained by Carhenia for [Nebula Network](https://nebulanetwork.net)  
+
+# Version History
+- Version 1 for 1.10.2 [succeeded by 1.12.2, no longer available]  
+- Version 2 for 1.12.2  
+- Version 3 for 1.16.5  
+- Version 4 for 1.19.3
+
+# Latest Downloads
+
+- [Curseforge](https://www.curseforge.com/minecraft/modpacks/ultimate-rp-pack)
+
+We highly recommend you use a third party launcher such as GDLauncher instead of Overwolf.
+
+# Join the Community
+- [CurseForge](https://www.curseforge.com/members/carhenia/projects)  
+- [Discord](https://discord.gg/9ZxeWesrzz)  
+- [Website](https://nebulanetwork.net/)  
+- [Wiki](https://wiki.nebulanetwork.net/) 
+
 # Terms and conditions
 All files are modifications of .toml, .cfg, .properties, .json, .yml or other .txt file formats provided by the original mods. All rights belong to the respective mod authors. 
+
+
