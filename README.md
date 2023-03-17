@@ -1,4 +1,4 @@
-<p align="center"><img src="https://wiki.nebulanetwork.net/modpack-resources/ultimaterppack.png" alt="Logo" width=""></p>  
+<p align="center"><img src="https://github.com/Carhenia/carhenia.github.io/blob/main/images/RPpack_title.png?raw=true" alt="Logo" width=""></p>  
 
 <h1 align="center"> Ultimate RP Modpack <br> 
 
