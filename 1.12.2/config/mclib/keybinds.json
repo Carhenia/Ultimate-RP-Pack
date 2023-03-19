@@ -17,9 +17,6 @@
     "itemphysic": {
         "": {}
     },
-    "foamfixcore": {
-        "": {}
-    },
     "obfuscate": {
         "": {}
     },
@@ -29,7 +26,13 @@
     "randompatches": {
         "": {}
     },
-    "additional_lights": {
+    "craftstudioapi": {
+        "": {}
+    },
+    "harvestcraft": {
+        "": {}
+    },
+    "animania": {
         "": {}
     },
     "mclib": {
@@ -50,37 +53,22 @@
     "atlcraft": {
         "": {}
     },
-    "attributefix": {
-        "": {}
-    },
-    "badmobs": {
-        "": {}
-    },
     "forgelin": {
         "": {}
     },
     "betterfoliage": {
         "": {}
     },
-    "bettermineshafts": {
-        "": {}
-    },
-    "bettertitlescreen": {
-        "": {}
-    },
     "bibliocraft": {
+        "": {}
+    },
+    "blur": {
         "": {}
     },
     "fcl": {
         "": {}
     },
     "scm": {
-        "": {}
-    },
-    "chameleon_morph": {
-        "": {}
-    },
-    "cherishedworlds": {
         "": {}
     },
     "chineseworkshop": {
@@ -101,9 +89,6 @@
     "chunkpregenerator": {
         "": {}
     },
-    "cleanview": {
-        "": {}
-    },
     "controlling": {
         "": {}
     },
@@ -113,7 +98,13 @@
     "coralreef": {
         "": {}
     },
+    "craftpresence": {
+        "": {}
+    },
     "creativecore": {
+        "": {}
+    },
+    "customnpcs": {
         "": {}
     },
     "dawnoftimebuilder": {
@@ -140,15 +131,6 @@
     "dsurround": {
         "": {}
     },
-    "dynamictrees": {
-        "": {}
-    },
-    "dynview": {
-        "": {}
-    },
-    "effortlessbuilding": {
-        "": {}
-    },
     "emoticons": {
         "": {}
     },
@@ -164,22 +146,13 @@
     "tmt": {
         "": {}
     },
-    "ferdinandsflowers": {
-        "": {}
-    },
     "flatcoloredblocks": {
-        "": {}
-    },
-    "foamfix": {
         "": {}
     },
     "forgeendertech": {
         "": {}
     },
     "fpsreducer": {
-        "": {}
-    },
-    "ftbbackups": {
         "": {}
     },
     "fw": {
@@ -191,13 +164,19 @@
     "cfm": {
         "": {}
     },
-    "geographicraft": {
-        "": {}
-    },
     "cgm": {
         "": {}
     },
-    "waila": {
+    "gymcraft": {
+        "": {}
+    },
+    "the_hospital_mod": {
+        "": {}
+    },
+    "incontrol": {
+        "": {}
+    },
+    "industrialrenewal": {
         "": {}
     },
     "inventorytweaks": {
@@ -206,25 +185,13 @@
     "itemzoom": {
         "": {}
     },
-    "itlt": {
-        "": {}
-    },
     "jjcoa": {
-        "": {}
-    },
-    "jeid": {
-        "": {}
-    },
-    "launchgui": {
         "": {}
     },
     "lightingwand": {
         "": {}
     },
     "literalascension": {
-        "": {}
-    },
-    "lunatriuscore": {
         "": {}
     },
     "malisiscore": {
@@ -236,16 +203,10 @@
     "mcwbridges": {
         "": {}
     },
-    "mcwdoors": {
-        "": {}
-    },
     "mcwfences": {
         "": {}
     },
     "mcwroofs": {
-        "": {}
-    },
-    "mcwtrpdoors": {
         "": {}
     },
     "mcwwindows": {
@@ -254,10 +215,16 @@
     "minemenu": {
         "": {}
     },
-    "modnametooltip": {
+    "mousetweaks": {
         "": {}
     },
-    "mousetweaks": {
+    "supermartijn642configlib": {
+        "": {}
+    },
+    "supermartijn642corelib": {
+        "": {}
+    },
+    "movingelevators": {
         "": {}
     },
     "shetiphiancore": {
@@ -269,13 +236,10 @@
     "nefdecomod": {
         "": {}
     },
-    "harvestcraft": {
-        "": {}
-    },
     "placebo": {
         "": {}
     },
-    "reauth": {
+    "pointless_tech_collective": {
         "": {}
     },
     "removehudbutnothand": {
@@ -284,37 +248,34 @@
     "rustic": {
         "": {}
     },
-    "schematica": {
-        "": {}
-    },
     "signpic": {
-        "": {}
-    },
-    "signpost": {
-        "": {}
-    },
-    "simple-rpc": {
         "": {}
     },
     "snowrealmagic": {
         "": {}
     },
-    "sasit": {
+    "spartanshields": {
         "": {}
     },
-    "surge": {
+    "spartanweaponry": {
+        "": {}
+    },
+    "stadiumcraft": {
         "": {}
     },
     "toastcontrol": {
         "": {}
     },
-    "unloader": {
+    "toolbelt": {
         "": {}
     },
-    "vanillafix": {
+    "variedcommodities": {
         "": {}
     },
     "vehicle": {
+        "": {}
+    },
+    "wearablebackpacks": {
         "": {}
     },
     "worldedit": {
@@ -335,7 +296,5 @@
     "corail_pillar": {
         "": {}
     },
-    "": {
-        "": {}
-    }
+    "": {}
 }

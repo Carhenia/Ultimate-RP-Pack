@@ -1,8 +1,8 @@
 {
     "acquiring": {
         "prevent_ghosts": true,
-        "prevent_kill_acquire": false,
-        "acquire_immediately": false
+        "prevent_kill_acquire": true,
+        "acquire_immediately": true
     },
     "morphs": {
         "keep_morphs": true,
